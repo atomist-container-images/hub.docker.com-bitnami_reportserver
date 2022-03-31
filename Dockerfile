@@ -82,7 +82,3 @@ FROM bitnami/reportserver:4.0.0-6057-debian-10-r1
 
 # Tags: 4.0.0-6057-debian-10-r0
 FROM bitnami/reportserver:4.0.0-6057-debian-10-r0
-
-# Tags: 4.0.0-6055-debian-10-r16, 4.0.0-6055
-FROM bitnami/reportserver:4.0.0-6055-debian-10-r16
-FROM bitnami/reportserver:4.0.0-6055
